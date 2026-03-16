@@ -1,7 +1,7 @@
 body{
 
    font-family: Arial;
-
+   
 }
 h1{
 
@@ -10,7 +10,7 @@ h1{
 }
 .persona1{
 
-   background-color: lightblue;
+   background-color: rgb(230, 217, 173);
 
    padding: 20px;
 
@@ -22,3 +22,4 @@ h1{
    padding: 20px;
 
 }
+
